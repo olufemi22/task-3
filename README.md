@@ -1,1 +1,1 @@
-My First GITHUB Page which features My Cv and a Contact me form 
+My first GITHUB page which features my CV and a contact me form 
